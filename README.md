@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Engineering @ UC# 
 --------------------------  
 
-I am a community college transfer student majoring in Computer Engineering at UC Irvine, with a strong interest in web development and software engineering. Motivated and disciplined, continuously learning modern programming practices. Excited to gain hands-on experience and contribute in collaborative team environments  
+I am a community college transfer student majoring in Computer Engineering at UC#, with a strong interest in web development and software engineering. Motivated and disciplined, continuously learning modern programming practices. Excited to gain hands-on experience and contribute in collaborative team environments  
 
 * 🌍  I'm based in California 
 * ✉️  You can contact me at [kevinle29299@gmail.com](mailto:kevinle29299@gmail.com) 
