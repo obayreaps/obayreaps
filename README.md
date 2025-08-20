@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kevin Le 
 ================================================================================================================================  
 
-Computer Engineering @ UC# 
+Computer Engineering @ UCI 
 --------------------------  
 
 Incoming community college transfer at UC# studying Computer Engineering, with a strong interest in web development and software engineering. Motivated and disciplined, continuously learning modern programming practices. Excited to gain hands-on experience and contribute in collaborative team environments  
