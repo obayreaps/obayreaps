@@ -5,10 +5,9 @@ Computer Engineering @ UC#
 --------------------------  
 
 Incoming community college transfer at UC# studying Computer Engineering, with a strong interest in web development and software engineering. Motivated and disciplined, continuously learning modern programming practices. Excited to gain hands-on experience and contribute in collaborative team environments  
-
+<!--* 🚀  I'm currently working on [Calculator Project](http://github.com/obayreaps/Calculator) -->
 * 🌍  I'm based in California 
 * ✉️  You can contact me at [kevinle29299@gmail.com](mailto:kevinle29299@gmail.com) 
-<!--* 🚀  I'm currently working on [Calculator Project](http://github.com/obayreaps/Calculator) -->
 * 🧠  I'm learning DSA and React over the summer 
 * 🤝  I'm open to collaborating on Engineering and Software Projects
 
