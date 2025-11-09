@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Engineering @ UCI 
 --------------------------  
 
-Incoming community college transfer at UC# studying Computer Engineering.
+Incoming community college transfer at UCI studying Computer Engineering.
 <!--* 🚀  I'm currently working on [Calculator Project](http://github.com/obayreaps/Calculator) -->
 * 🌍  I'm based in California 
 * ✉️  You can contact me at [kevinle29299@gmail.com](mailto:kevinle29299@gmail.com) 
