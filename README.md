@@ -8,8 +8,6 @@ Incoming community college transfer at UCI studying Computer Engineering.
 <!--* 🚀  I'm currently working on [Calculator Project](http://github.com/obayreaps/Calculator) -->
 * 🌍  I'm based in California 
 * ✉️  You can contact me at [lek17@uci.edu](mailto:lek17@uci.edu) 
-* 🧠  I'm learning DSA and React over the summer 
-* 🤝  I'm open to collaborating on Engineering and Software Projects
 
 ### Skills  
 
